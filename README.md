@@ -32,6 +32,6 @@ Forcegrief is Licensed under Apache 2.0 license. You can find it in the LICENSE 
 6. Let the program run.
 #### If you don't have a wordlist : 
 * Create the wordlist : 
-(WARNING : WORDLIST FILES CAN SOMETIMES ACHIEVE A SIZE OF MORE THEN 1 GO AND TAKE HOURS TO GENERATES - TO AVOID THIS PROBLEM, YOU CAN INSTALL PRE-MADE ONES)
+***WARNING : WORDLIST FILES CAN SOMETIMES ACHIEVE A SIZE OF MORE THEN 1 GO AND TAKE HOURS TO GENERATES - TO AVOID THIS PROBLEM, YOU CAN INSTALL PRE-MADE ONES***
 1: Enter "goblin", and follow the instruction on the screen. When finished, refer to "If you have a wordlist".
 
