@@ -25,9 +25,10 @@ Forcegrief is Licensed under Apache 2.0 license. You can find it in the LICENSE 
 ### Usage
 #### If you have a wordlist : 
 1. First enter the wordlist's file name;
-#### If you don't have a wordlist : 
-1: Relaunch the software, and instead of typing "forcegrief", type "goblin", and follow the instruction on the screen. When finished, refer to "If you have a wordlist".
 2. Then enter the Username field's Name (Returned to the server when trying to login);
 3. Then enter the Password field's Name (Returned to the server when trying to login);
 4. Then enter the site's login form URL;
 5. Let the program run.
+#### If you don't have a wordlist : 
+1: Relaunch the software, and instead of typing "forcegrief", type "goblin", and follow the instruction on the screen. When finished, refer to "If you have a wordlist".
+
