@@ -33,5 +33,5 @@ Forcegrief is Licensed under Apache 2.0 license. You can find it in the LICENSE 
 6. Let the program run.
 #### If you don't have a wordlist : 
 * Create the wordlist : 
-1: Enter "goblin", and follow the instruction on the screen. When finished, refer to "If you have a wordlist".
+1. Enter "goblin", and follow the instruction on the screen. When finished, refer to "If you have a wordlist".
 
