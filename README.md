@@ -6,16 +6,17 @@ Forcegrief is Licensed under Apache 2.0 license. You can find it in the LICENSE 
 1. Python 3.8 or later;
 2. The REQUESTS module for Python. Install it with PIP : "sudo pip install requests" on Linux or "pip install requests" on Windows.
 
-## Usage
+## Installing
 ### Linux
-LATER.
+1. Clone the repo using Git
+2. 
 
 ### Windows
 1. Download the ZIP file using : 
-* [Direct Download](https://github.com/DiamondsBattle/Forcegrief/archive/master.zip)
-* [Git](https://git-scm.com/download), using :
-  * SSH : git clone git@github.com:DiamondsBattle/Forcegrief.git
-  * HTTPS :  git clone https://github.com/DiamondsBattle/Forcegrief.git
+ * [Direct Download](https://github.com/DiamondsBattle/Forcegrief/archive/master.zip)
+ * [Git](https://git-scm.com/download), using :
+   * SSH : "git clone git@github.com:DiamondsBattle/Forcegrief.git"
+   * HTTPS :  "git clone https://github.com/DiamondsBattle/Forcegrief.git"
 2. Open cmd.exe and move to the directory you installed it in.
 3. Then type "python3 forcegrief.py"
 4. Done
