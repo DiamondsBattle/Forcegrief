@@ -38,7 +38,7 @@ def request(fd_username, fd_password, url, s_username, s_password, ints):
 				str(fd_username): s_username,
 				str(fd_password): str(s_password[ints])
 		})
-		print(color_codes["ok"] + "[OK] Username :  + s_username + ", Password :  + s_password[ints])
+		print(color_codes["ok"] + "[OK] Username : " + s_username + ", Password : " + s_password[ints])
 	except error as err:
 		print(color_codes["error"] + "Error in request() : {}".format(err) + color_codes["none"])
 
