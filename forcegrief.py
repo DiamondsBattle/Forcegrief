@@ -103,7 +103,8 @@ def cli():
 		print("Closing...")
 
 if __name__ == "__main__":
-	global error_codes
+	global error_codes, error
+	error = ""
 	color_codes = {"ok": "\u001b[92m",
 				   "warning": "\u001b[93m",
 				   "error": "\u001b[91m",
