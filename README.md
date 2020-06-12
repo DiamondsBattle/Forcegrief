@@ -11,7 +11,7 @@ Forcegrief is Licensed under Apache 2.0 license. You can find it in the LICENSE 
 ### Linux
 1. Clone the repo using (Git)[https://git-scm.com/download], using :
 * SSH : "git clone git@github:DiamondsBattle/Forcegrief.git"
-2. 
+* HTTPS : "git clone https://github.com/DiamondsBattle/Forcegrief.git
 
 ### Windows
 1. Download the ZIP file using : 
@@ -33,5 +33,4 @@ Forcegrief is Licensed under Apache 2.0 license. You can find it in the LICENSE 
 6. Let the program run.
 #### If you don't have a wordlist : 
 * Create the wordlist : 
-1. Enter "goblin", and follow the instruction on the screen. When finished, refer to "If you have a wordlist".
-
+1. Enter "goblin", and follow the instruction on the screen.
