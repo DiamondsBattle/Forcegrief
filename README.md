@@ -1,4 +1,4 @@
-# Not fixed anymore
+# Not patched anymore
 
 # Forcegrief 
 ### PRE-RELEASE
